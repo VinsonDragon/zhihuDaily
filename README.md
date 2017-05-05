@@ -40,6 +40,9 @@
 ![](./doc/zhihuDaily.png)
 使用 sketch 设计页面, 照着自己喜欢的风格做了一版
 
+## Demo
+[Click me](https://vinsondragon.github.io/zhihuDaily/)
+
 ## Build Setup 构建
 
 ``` bash
