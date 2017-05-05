@@ -22,20 +22,16 @@
 
 ##API
 
-
-感谢 [Trevor](http://www.huangxizhou.com/) 同学提供的 [知乎日报 API（解决跨域精简版）](http://www.huangxizhou.com/2017/04/29/zhihu-dailyAPI/)
-感谢 [知乎日报 API 分析](https://github.com/izzyleung/ZhihuDailyPurify/wiki/%E7%9F%A5%E4%B9%8E%E6%97%A5%E6%8A%A5-API-%E5%88%86%E6%9E%90)
+* 感谢 [Trevor](http://www.huangxizhou.com/) 同学提供的 [知乎日报 API（解决跨域精简版）](http://www.huangxizhou.com/2017/04/29/zhihu-dailyAPI/)
+* 感谢 [知乎日报 API 分析](https://github.com/izzyleung/ZhihuDailyPurify/wiki/%E7%9F%A5%E4%B9%8E%E6%97%A5%E6%8A%A5-API-%E5%88%86%E6%9E%90)
 
 ##技术栈
-
 
 * [Vue 2.0](https://github.com/vuejs/vue) +  [Axios](https://github.com/mzabriskie/axios)  + [Vue-router](https://github.com/vuejs/vue-router) + [Vuex](https://github.com/vuejs/vuex)
 * [Vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper)
 * [Sass](https://github.com/sass/sass)
 
-
 ##Features
-
 
 * 今日热门
 * 每日日报
