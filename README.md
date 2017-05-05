@@ -3,8 +3,7 @@
 > 知乎日报 Web 版本，基于 Vue全家桶 开发。
 
 
-##声明
-
+## 声明
 
 ***本项目内所有文字图片等稿件内容均由 [知乎](https://www.zhihu.com/) 提供，获取与共享之行为或有侵犯知乎权益的嫌疑。若被告知需停止共享与使用，本人会及时删除整个项目。***
 
@@ -19,19 +18,18 @@
 
 欢迎 Issue、Fork、Star ☺️🤑😁
 
-
-##API
+## API
 
 * 感谢 [Trevor](http://www.huangxizhou.com/) 同学提供的 [知乎日报 API（解决跨域精简版）](http://www.huangxizhou.com/2017/04/29/zhihu-dailyAPI/)
 * 感谢 [知乎日报 API 分析](https://github.com/izzyleung/ZhihuDailyPurify/wiki/%E7%9F%A5%E4%B9%8E%E6%97%A5%E6%8A%A5-API-%E5%88%86%E6%9E%90)
 
-##技术栈
+## 技术栈
 
 * [Vue 2.0](https://github.com/vuejs/vue) +  [Axios](https://github.com/mzabriskie/axios)  + [Vue-router](https://github.com/vuejs/vue-router) + [Vuex](https://github.com/vuejs/vuex)
 * [Vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper)
 * [Sass](https://github.com/sass/sass)
 
-##Features
+## Features
 
 * 今日热门
 * 每日日报
@@ -58,9 +56,7 @@ npm run build
 npm run build --report
 ```
 
-##License
+## License
 
 [MIT](https://opensource.org/licenses/MIT)
-
-
 
