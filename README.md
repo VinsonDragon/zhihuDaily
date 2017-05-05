@@ -13,6 +13,7 @@
 感谢 [Trevor](http://www.huangxizhou.com/) 同学提供的 [知乎日报 API（解决跨域精简版）](http://www.huangxizhou.com/2017/04/29/zhihu-dailyAPI/)
 
 大家多多交流，互相学习啊，写的不好的地方还请指正！
+
 ##Features
 
 * 今日热门
