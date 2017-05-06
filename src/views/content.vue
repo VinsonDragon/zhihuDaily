@@ -89,7 +89,7 @@ export default {
             width: 100%;
         }
         p {
-            font-size: .3rem;
+            font-size: .45rem;
         }
         .headline-title {
             color: #3761bd;
