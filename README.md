@@ -43,7 +43,7 @@
 ## Demo
 [Click me](https://vinsondragon.github.io/zhihuDaily/)
 
-建议在手机下浏览，PC端打开F12手机模式食用更佳
+建议在手机下浏览，PC端打开F12手机模式食用更佳
 
 ## Build Setup 构建
 
